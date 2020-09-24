@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  text-align: left;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 .App-logo {
@@ -35,4 +39,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.font-light {
+  color: aliceblue;
 }
